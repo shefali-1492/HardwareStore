@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.NET 8\\HardwareStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3960EE-756D-48CE-8075-C2A8167A2CFD}|BackOffice.Application\\BackOffice.Application.csproj|e:\\.net 8\\hardwarestore\\backoffice.application\\products\\handlers\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3960EE-756D-48CE-8075-C2A8167A2CFD}|BackOffice.Application\\BackOffice.Application.csproj|solutionrelative:backoffice.application\\products\\handlers\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36944B9-032C-4BD4-ABC7-0EEA57ADBA74}|BackOffice.API\\BackOffice.API.csproj|e:\\.net 8\\hardwarestore\\backoffice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F36944B9-032C-4BD4-ABC7-0EEA57ADBA74}|BackOffice.API\\BackOffice.API.csproj|solutionrelative:backoffice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3DEAED-8A68-4B9B-8D57-20F2B144FD6F}|BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj|e:\\.net 8\\hardwarestore\\backoffice.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3DEAED-8A68-4B9B-8D57-20F2B144FD6F}|BackOffice.Infrastructure\\BackOffice.Infrastructure.csproj|solutionrelative:backoffice.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36944B9-032C-4BD4-ABC7-0EEA57ADBA74}|BackOffice.API\\BackOffice.API.csproj|e:\\.net 8\\hardwarestore\\backoffice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36944B9-032C-4BD4-ABC7-0EEA57ADBA74}|BackOffice.API\\BackOffice.API.csproj|solutionrelative:backoffice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36944B9-032C-4BD4-ABC7-0EEA57ADBA74}|BackOffice.API\\BackOffice.API.csproj|e:\\.net 8\\hardwarestore\\backoffice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F36944B9-032C-4BD4-ABC7-0EEA57ADBA74}|BackOffice.API\\BackOffice.API.csproj|solutionrelative:backoffice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CFDAE7-516D-4C9A-933B-D1196640E8FF}|BackOffice.Persistence\\BackOffice.Persistence.csproj|e:\\.net 8\\hardwarestore\\backoffice.persistence\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CFDAE7-516D-4C9A-933B-D1196640E8FF}|BackOffice.Persistence\\BackOffice.Persistence.csproj|solutionrelative:backoffice.persistence\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3960EE-756D-48CE-8075-C2A8167A2CFD}|BackOffice.Application\\BackOffice.Application.csproj|e:\\.net 8\\hardwarestore\\backoffice.application\\products\\handlers\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3960EE-756D-48CE-8075-C2A8167A2CFD}|BackOffice.Application\\BackOffice.Application.csproj|solutionrelative:backoffice.application\\products\\handlers\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3960EE-756D-48CE-8075-C2A8167A2CFD}|BackOffice.Application\\BackOffice.Application.csproj|e:\\.net 8\\hardwarestore\\backoffice.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3960EE-756D-48CE-8075-C2A8167A2CFD}|BackOffice.Application\\BackOffice.Application.csproj|solutionrelative:backoffice.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3960EE-756D-48CE-8075-C2A8167A2CFD}|BackOffice.Application\\BackOffice.Application.csproj|e:\\.net 8\\hardwarestore\\backoffice.application\\products\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3960EE-756D-48CE-8075-C2A8167A2CFD}|BackOffice.Application\\BackOffice.Application.csproj|solutionrelative:backoffice.application\\products\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3960EE-756D-48CE-8075-C2A8167A2CFD}|BackOffice.Application\\BackOffice.Application.csproj|e:\\.net 8\\hardwarestore\\backoffice.application\\products\\handlers\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3960EE-756D-48CE-8075-C2A8167A2CFD}|BackOffice.Application\\BackOffice.Application.csproj|solutionrelative:backoffice.application\\products\\handlers\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36944B9-032C-4BD4-ABC7-0EEA57ADBA74}|BackOffice.API\\BackOffice.API.csproj|e:\\.net 8\\hardwarestore\\backoffice.api\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36944B9-032C-4BD4-ABC7-0EEA57ADBA74}|BackOffice.API\\BackOffice.API.csproj|solutionrelative:backoffice.api\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\.NET 8\\HardwareStore\\BackOffice.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackOffice.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\.NET 8\\HardwareStore\\BackOffice.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackOffice.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T15:30:42.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllProductsQueryHandler.cs",
+              "DocumentMoniker": "E:\\.NET 8\\HardwareStore\\BackOffice.Application\\Products\\Handlers\\GetAllProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "BackOffice.Application\\Products\\Handlers\\GetAllProductsQueryHandler.cs",
+              "ToolTip": "E:\\.NET 8\\HardwareStore\\BackOffice.Application\\Products\\Handlers\\GetAllProductsQueryHandler.cs",
+              "RelativeToolTip": "BackOffice.Application\\Products\\Handlers\\GetAllProductsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:04:14.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\.NET 8\\HardwareStore\\BackOffice.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BackOffice.API\\appsettings.json",
+              "ToolTip": "E:\\.NET 8\\HardwareStore\\BackOffice.API\\appsettings.json",
+              "RelativeToolTip": "BackOffice.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T15:45:16.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\.NET 8\\HardwareStore\\BackOffice.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "BackOffice.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "E:\\.NET 8\\HardwareStore\\BackOffice.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "BackOffice.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:44:28.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "E:\\.NET 8\\HardwareStore\\BackOffice.Persistence\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "BackOffice.Persistence\\ProductDbContext.cs",
+              "ToolTip": "E:\\.NET 8\\HardwareStore\\BackOffice.Persistence\\ProductDbContext.cs",
+              "RelativeToolTip": "BackOffice.Persistence\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:38:38.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\.NET 8\\HardwareStore\\BackOffice.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "BackOffice.Application\\DependencyInjection.cs",
+              "ToolTip": "E:\\.NET 8\\HardwareStore\\BackOffice.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "BackOffice.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:08:04.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.NET 8\\HardwareStore\\BackOffice.API\\Program.cs",
+              "RelativeDocumentMoniker": "BackOffice.API\\Program.cs",
+              "ToolTip": "E:\\.NET 8\\HardwareStore\\BackOffice.API\\Program.cs",
+              "RelativeToolTip": "BackOffice.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:59:03.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "E:\\.NET 8\\HardwareStore\\BackOffice.Application\\Products\\Handlers\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "BackOffice.Application\\Products\\Handlers\\CreateProductCommandHandler.cs",
+              "ToolTip": "E:\\.NET 8\\HardwareStore\\BackOffice.Application\\Products\\Handlers\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "BackOffice.Application\\Products\\Handlers\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:55:47.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateProductHandler.cs",
+              "DocumentMoniker": "E:\\.NET 8\\HardwareStore\\BackOffice.Application\\Products\\Handlers\\UpdateProductHandler.cs",
+              "RelativeDocumentMoniker": "BackOffice.Application\\Products\\Handlers\\UpdateProductHandler.cs",
+              "ToolTip": "E:\\.NET 8\\HardwareStore\\BackOffice.Application\\Products\\Handlers\\UpdateProductHandler.cs",
+              "RelativeToolTip": "BackOffice.Application\\Products\\Handlers\\UpdateProductHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:55:46.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "E:\\.NET 8\\HardwareStore\\BackOffice.Application\\Products\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "BackOffice.Application\\Products\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "E:\\.NET 8\\HardwareStore\\BackOffice.Application\\Products\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "BackOffice.Application\\Products\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:54:37.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "E:\\.NET 8\\HardwareStore\\BackOffice.API\\Endpoints\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "BackOffice.API\\Endpoints\\ProductEndpoints.cs",
+              "ToolTip": "E:\\.NET 8\\HardwareStore\\BackOffice.API\\Endpoints\\ProductEndpoints.cs",
+              "RelativeToolTip": "BackOffice.API\\Endpoints\\ProductEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:53:01.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
