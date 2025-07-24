@@ -70,5 +70,5 @@ jobs:
         uses: azure/webapps-deploy@v3
         with:
           app-name: "hardwarestore01"
-          slot-name: "Development"
+          slot-name: "Production"
           package: .
