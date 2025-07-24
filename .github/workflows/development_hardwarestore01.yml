@@ -26,9 +26,9 @@ jobs:
 
       - name: Build with dotnet
         run: |
-        cd backend
-        dotnet restore 
-	dotnet build --configuration Release
+          cd backend
+          dotnet restore
+          dotnet build --configuration Release
 
       - name: dotnet publish
         run: dotnet publish -c Release -o "${{env.DOTNET_ROOT}}/myapp"
