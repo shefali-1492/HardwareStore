@@ -43,7 +43,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: .net-app
-          path: .\publish
+          path: publish
 
   deploy:
     runs-on: windows-latest
@@ -72,3 +72,7 @@ jobs:
           app-name: "hardwarestore01"
           slot-name: "Production"
           package: .
+          configuration-strings: |
+            WEBSITE_RUN_FROM_PACKAGE=1
+          restart: true
+          clean: true # Clean deployment
