@@ -5,8 +5,8 @@ name: Build and deploy Backend API - hardwarestore01
 
 on:
   push:
-    branches: [ main, development ]
-    paths: ['backend/**']
+    branches: [main, development]
+    paths: ["backend/**"]
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: "8.x"
-      
+
       - name: Restore dependencies
         run: |
           cd backend
@@ -37,7 +37,7 @@ jobs:
       - name: Publish API project
         run: |
           cd backend
-          dotnet publish BackOffice.API\BackOffice.API.csproj -c Release -o "..\publish --no-build"
+          dotnet publish BackOffice.API\BackOffice.API.csproj -c Release -o ..\publish --no-build
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
