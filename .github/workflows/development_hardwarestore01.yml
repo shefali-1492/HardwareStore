@@ -30,7 +30,7 @@ jobs:
           dotnet build --configuration Release
 
       - name: dotnet publish
-        run: 
+        run: |
           cd backend
           dotnet publish -c Release -o "..\publish"
 
