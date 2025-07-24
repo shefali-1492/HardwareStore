@@ -65,6 +65,10 @@ jobs:
           tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_1CC72B5D64D8482D898C71D8AB0A0A77 }}
           subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_8BA907328A014A5F8E55E20A9F7BF09F }}
 
+      - name: Set App Service configuration
+        run: |
+          az webapp config appsettings set --name hardwarestore01 --resource-group your-resource-group-name --settings WEBSITE_RUN_FROM_PACKAGE=1
+
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v3
@@ -72,7 +76,5 @@ jobs:
           app-name: "hardwarestore01"
           slot-name: "Production"
           package: .
-          configuration-strings: |
-            WEBSITE_RUN_FROM_PACKAGE=1
           restart: true
           clean: true # Clean deployment
