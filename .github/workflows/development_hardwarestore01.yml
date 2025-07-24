@@ -67,7 +67,7 @@ jobs:
 
       - name: Set App Service configuration
         run: |
-          az webapp config appsettings set --name hardwarestore01 --resource-group your-resource-group-name --settings WEBSITE_RUN_FROM_PACKAGE=1
+          az webapp config appsettings set --name hardwarestore01 --resource-group hardwarestore-api-2025 --settings WEBSITE_RUN_FROM_PACKAGE=1
 
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
