@@ -34,6 +34,14 @@ jobs:
           dotnet restore
           dotnet build HardwareStore.sln --configuration Release  --no-restore
 
+      - name: Install EF Core CLI
+        run: dotnet tool install --global dotnet-ef
+
+      - name: Create Migration Bundle (optional)
+        run: |
+          cd backend
+          dotnet ef migrations bundle --project BackOffice.Persistence --startup-project BackOffice.API --configuration Release -o ../efbundle.exe
+
       - name: Publish API project
         run: |
           cd backend
@@ -58,6 +66,11 @@ jobs:
         with:
           name: .net-app
 
+      - name: Download migration bundle
+        uses: actions/download-artifact@v4
+        with:
+          name: migration-bundle
+
       - name: Login to Azure
         uses: azure/login@v2
         with:
@@ -78,3 +91,4 @@ jobs:
           package: .
           restart: true
           clean: true # Clean deployment
+
